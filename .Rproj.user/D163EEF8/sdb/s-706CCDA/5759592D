@@ -1,0 +1,16 @@
+{
+    "contents" : "\"x\"\n\"1\" \"subject\"\n  Numeric Variable with subject ID\n\"2\" \"activity\"\n  character variable with descriptive name of activity\n\"3\" \"tBodyAcc-std()-X\"\n  numeric variable with std of tBodyAcc-X\n  units = seconds\n\"4\" \"tBodyAcc-std()-Y\"\n  numeric variable with std of tBodyAcc-Y\n  units = seconds\n\"5\" \"tBodyAcc-std()-Z\"\n  numeric variable with std of tBodyAcc-Z\n  units = seconds\n\"6\" \"tGravityAcc-std()-X\"\n  numeric variable with std of tGravityAcc-X\n  units = seconds\n\"7\" \"tGravityAcc-std()-Y\"\nnumeric variable with std of tGravityAcc-Y\n  units = seconds\n\"8\" \"tGravityAcc-std()-Z\"\nnumeric variable with std of tGravityAcc-Z\n  units = seconds\n\"9\" \"tBodyAccJerk-std()-X\"\n\n",
+    "created" : 1434909099620.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3721155399",
+    "id" : "5759592D",
+    "lastKnownWriteTime" : 1434909589,
+    "path" : "C:/Users/Alex/Desktop/RProjects/FuzzyDubstep/03 Cleaning up data/04 Course Project/codebook.txt",
+    "project_path" : "codebook.txt",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

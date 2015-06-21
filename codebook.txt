@@ -1,0 +1,25 @@
+"x"
+"1" "subject"
+  Numeric Variable with subject ID
+"2" "activity"
+  character variable with descriptive name of activity
+"3" "tBodyAcc-std()-X"
+  numeric variable with std of tBodyAcc-X
+  units = seconds
+"4" "tBodyAcc-std()-Y"
+  numeric variable with std of tBodyAcc-Y
+  units = seconds
+"5" "tBodyAcc-std()-Z"
+  numeric variable with std of tBodyAcc-Z
+  units = seconds
+"6" "tGravityAcc-std()-X"
+  numeric variable with std of tGravityAcc-X
+  units = seconds
+"7" "tGravityAcc-std()-Y"
+numeric variable with std of tGravityAcc-Y
+  units = seconds
+"8" "tGravityAcc-std()-Z"
+numeric variable with std of tGravityAcc-Z
+  units = seconds
+"9" "tBodyAccJerk-std()-X"
+
